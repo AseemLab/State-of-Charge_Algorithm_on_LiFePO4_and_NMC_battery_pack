@@ -216,8 +216,8 @@ For detailed technical information and citations, please refer to the full resea
 
 ## 🔗 Links
 
-- [Research Paper](./State_of_Charge_Algorithm_on_a_LiFePO4_and_NMC_battery_pack.pdf)
 - [GitHub Repository](https://github.com/AseemLab)
+- [LinkedIn](https://www.linkedin.com/in/aseemsaxena9/)
 - [University of Bath EEE Department](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/)
 
 ---
